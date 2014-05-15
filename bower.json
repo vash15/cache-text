@@ -1,0 +1,32 @@
+{
+  "name": "cache-text",
+  "version": "1.0.0",
+  "homepage": "https://github.com/vash15/cache-text",
+  "authors": [
+    "Michele Belluco"
+  ],
+  "description": "Load with ajax files and cache it",
+  "main": "lib/cache-text.js",
+  "moduleType": [
+    "amd",
+    "globals",
+    "node"
+  ],
+  "keywords": [
+    "cache",
+    "text",
+    "load",
+    "file"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1"
+  }
+}
